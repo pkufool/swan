@@ -1,0 +1,22 @@
+{
+    "language": "zh-hans",
+    "plugins": [
+        "-lunr",
+        "-search",
+        "search-plus",
+        "splitter",
+        "expandable-chapters-small"
+    ],
+    "links": {
+        "sidebar": {
+            "关于我": "https://www.kingway.fun"
+        },
+        "sharing": {
+            "google": false,
+            "facebook": false,
+            "twitter": false,
+            "weibo": false,
+            "all": false
+        }
+    }
+}

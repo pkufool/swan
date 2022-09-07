@@ -6,3 +6,5 @@
 npm install markline -g
 
 https://github.com/hotoo/markline
+
+npm install gitbook-cli@2.1.2 -g
