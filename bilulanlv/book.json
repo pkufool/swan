@@ -5,18 +5,22 @@
         "-search",
         "search-plus",
         "splitter",
-        "expandable-chapters-small"
+        "expandable-chapters-small",
+        "page-footer-ex"
     ],
-    "links": {
-        "sidebar": {
-            "关于我": "https://www.kingway.fun"
-        },
+    "pluginsConfig": {
         "sharing": {
             "google": false,
             "facebook": false,
             "twitter": false,
             "weibo": false,
-            "all": false
+            "all": []
+        },
+        "page-footer-ex": {
+            "copyright": "By [走马滩](https://www.kingway.fun/life)，内容收集自互联网，如有侵权请告知删除。",
+            "markdown": true,
+            "update_label": "此页面修订于：",
+            "update_format": "YYYY-MM-DD HH:mm:ss"
         }
     }
 }
